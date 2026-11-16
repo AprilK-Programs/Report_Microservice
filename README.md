@@ -10,4 +10,5 @@ To REQUEST and RECEIVE:
 
 <img width="1106" height="304" alt="Screenshot 2026-11-16 at 10 52 52 AM" src="https://github.com/user-attachments/assets/182aa5c3-1baa-4ca5-9e02-c848119a7f1d" />
 UML Sequence Diagram:
-<img width="409" height="376" alt="Screenshot 2026-11-16 at 11 20 48 AM" src="https://github.com/user-attachments/assets/201b2f80-9c9d-4eb5-b093-fe3a10321e75" />
+
+<img width="791" height="408" alt="Screenshot 2026-11-16 at 11 58 25 AM" src="https://github.com/user-attachments/assets/6e9ee6ac-fb4a-46e5-8322-24ebb1a75b35" />
